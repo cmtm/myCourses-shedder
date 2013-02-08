@@ -7,7 +7,9 @@ Makes myCourses a little less crappy by removing some of the visual clutter
 Install on chrome
 =================
 
-Instead of opening the extension you'd like to install directly, right-click the download link and select Save Link As to download the extension to your desktop.
+Right-click the link below and select "Save Link As...: to download the extension to your desktop.
+
+https://raw.github.com/chrisMorin/myCourses-shedder/master/chrome/mCshedder.crx
 
 Open Chrome's extensions page in your browser by pasting chrome://chrome/extensions/ into your address bar and pressing Enter.
 
