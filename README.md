@@ -8,7 +8,7 @@ Makes myCourses a little less crappy by removing some of the visual clutter
 Install on chrome
 =================
 
-Right-click the link below and select "Save Link As...: to download the extension to your desktop.
+Right-click the link below and select "Save Link As..." to download the extension to your desktop.
 
 https://raw.github.com/chrisMorin/myCourses-shedder/master/chrome/mCshedder.crx
 
