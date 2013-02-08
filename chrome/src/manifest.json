@@ -1,6 +1,6 @@
 {
 	"name": "myCourses Shedder",
-	"version": "1.0",
+	"version": "1.1",
 	"manifest_version": 2,
 	"description": "Get rid of useless myCourses sections.",
 	"update_url": "https://raw.github.com/chrisMorin/myCourses-shedder/master/chrome/updates.xml",
