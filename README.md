@@ -3,6 +3,7 @@ myCourses-shedder
 
 Makes myCourses a little less crappy by removing some of the visual clutter
 
+![before & after](pics/promo.png?raw=true)
 
 Install on chrome
 =================
