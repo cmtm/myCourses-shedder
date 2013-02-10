@@ -15,3 +15,27 @@ https://raw.github.com/chrisMorin/myCourses-shedder/master/chrome/mCshedder.crx
 Open Chrome's extensions page in your browser by pasting `chrome://chrome/extensions/` into your address bar and pressing Enter.
 
 Drag and drop the extension you just downloaded into the Chrome extensions page.
+
+
+Install on firefox
+==================
+
+Don't have a ff extension yet. If you're wanna make one please let me know!
+
+Install on IE
+=============
+
+lol
+
+Future features
+===============
+
+Reorganize discussion page
+
+Add course title
+
+Ability to batch download all course content
+
+Keep session alive
+
+Stop popup barrage on expiration
