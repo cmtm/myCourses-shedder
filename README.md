@@ -5,6 +5,12 @@ Makes myCourses a little less crappy by removing some of the visual clutter
 
 ![before & after](pics/promo.png?raw=true)
 
+Update!
+=======
+The long awaited update of myCourses-shedder removes even more clutter and splits
+the discussion page vertically instead of horizontally to more efficiently use 
+screen real estate (Thanks to Ehsan Kia).
+
 Install on chrome
 =================
 
